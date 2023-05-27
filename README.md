@@ -40,9 +40,9 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=markodavkovski&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="markodavkovski" /></p>
-
+---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=markodavkovski&show_icons=true&locale=en&theme=tokyonight" alt="markodavkovski" /></p>
-
+---
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=markodavkovski&&theme=tokyonight" alt="markodavkovski" /></p>
 
 
