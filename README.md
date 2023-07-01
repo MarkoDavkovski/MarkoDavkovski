@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/MarkoDavkovski/MarkoDavkovski/blob/main/github-header-image.png)](https://markodavkovski.io)
+[![MasterHead](link do slika)](https://markodavkovski.io)
 ---
 <h3 align="center">A passionate frontend developer from North Macedonia</h3>
 
