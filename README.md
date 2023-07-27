@@ -26,7 +26,17 @@
 <h3>Languages and Tools:</h3>
 
 <table>
+
   <tr>
+      <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        width="48"
+        height="48"
+        alt="ReactJS"
+      />
+      <br /><strong>ReactJS</strong>
+    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -80,15 +90,6 @@
         alt="Tailwind"
       />
       <br /><strong>Tailwind</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
-        width="48"
-        height="48"
-        alt="Webpack"
-      />
-      <br /><strong>Webpack</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
