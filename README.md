@@ -181,11 +181,11 @@
 
 # Statistics 
 
-<img src="https://github-readme-stats.vercel.app/api?username=markodavkovski&show_icons=true&locale=en&theme=react" alt="markodavkovski" />
+<img src="https://github-readme-stats.vercel.app/api?username=markodavkovski&show_icons=true&locale=en&theme=react&hide_border=true" alt="markodavkovski" />
 
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=markodavkovski&&theme=react" alt="markodavkovski" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=markodavkovski&&theme=react&hide_border=true" alt="markodavkovski" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markodavkovski&label=Profile%20views&color=0e75b6&style=flat" alt="markodavkovski" /> </p>
