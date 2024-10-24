@@ -123,7 +123,7 @@ Lets get in touch if you're keen, on web development or collaborating together!
     </td>
         <td align="center" height="108" width="108">
       <img
-        src="https://www.svgrepo.com/show/376369/dotnet.svg        "
+        src="https://www.svgrepo.com/show/376369/dotnet.svg"
         width="48"
         height="48"
         alt="ASP.NET"
