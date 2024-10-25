@@ -1,6 +1,6 @@
 ## [![MasterHead](<https://github.com/MarkoDavkovski/MarkoDavkovski/blob/main/github-header-image(1).png>)](https://markodavkovski.io)
 
-<h3 align="center">A passionate fullstack developer from North Macedonia</h3>
+<h3 align="center">A passionate Fullstack Developer from North Macedonia</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
@@ -8,7 +8,7 @@
 
 - I enjoy learning new technologies, taking on challenges, and improving through feedback. My goal is to write clean, maintainable code while being flexible and collaborative.
 
-Lets get in touch if you're keen, on web development or collaborating together! 
+Lets get in touch if you're keen, on web development or collaborating together!
 
 <br/>
 <a href="mailto:marko.davkovski@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
@@ -89,23 +89,23 @@ Lets get in touch if you're keen, on web development or collaborating together!
         />
       <br /><strong>SASS</strong>
     </td>
-    <td align="center" height="108" width="108">
+     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webflow/webflow-original.svg"
         width="48"
         height="48"
-        alt="HTML"
+        alt="Webflow"
         />
-      <br /><strong>HTML</strong>
+      <br /><strong>Webflow</strong>
     </td>
-    <td align="center" height="108" width="108">
+        <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
         width="48"
         height="48"
-        alt="CSS"
+        alt="Figma"
         />
-      <br /><strong>CSS</strong>
+      <br /><strong>Figma</strong>
     </td>
   </tr>
   <tr>
@@ -135,6 +135,15 @@ Lets get in touch if you're keen, on web development or collaborating together!
         alt="Express"
         />
       <br /><strong>Express</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
+        width="48"
+        height="48"
+        alt="Microsoft SQL Server"
+        />
+      <br /><strong>MS SQL</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -180,15 +189,6 @@ Lets get in touch if you're keen, on web development or collaborating together!
         alt="Docker"
         />
       <br /><strong>Docker</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
-        width="48"
-        height="48"
-        alt="Figma"
-        />
-      <br /><strong>Figma</strong>
     </td>
   </tr>
 </table>
