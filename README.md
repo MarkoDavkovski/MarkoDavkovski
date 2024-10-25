@@ -111,6 +111,18 @@ Lets get in touch if you're keen, on web development or collaborating together!
   <tr>
       <td align="center" height="108" width="108">
       <img
+<<<<<<< HEAD
+=======
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="Node.js"
+      />
+      <br /><strong>Node.js</strong>
+    </td>
+        <td align="center" height="108" width="108">
+      <img
+>>>>>>> 93316ab1b75cc7316b0addfa91ddf66363a9c7b1
         src="https://www.svgrepo.com/show/376369/dotnet.svg"
         width="48"
         height="48"
