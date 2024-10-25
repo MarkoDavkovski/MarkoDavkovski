@@ -10,142 +10,148 @@
 
 Lets get in touch if you're keen, on web development or collaborating together! 
 
-<br>
+<br/>
 <a href="mailto:marko.davkovski@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 
-<br>
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/davkovski10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davkovski10" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/marko-davkovski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marko-davkovski" height="30" width="40" /></a>
 <a href="https://instagram.com/davkovski10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davkovski10" height="30" width="40" /></a>
 </p>
+<br />
 
-<br>
-<br>
-
-<h3>Languages and Tools:</h3>
+# 🔧 Technologies and Tools:
 
 <table>
-
   <tr>
-      <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
         width="48"
         height="48"
         alt="React"
-      />
+        />
       <br /><strong>React</strong>
     </td>
-      <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
-        src="https://www.svgrepo.com/show/354113/nextjs-icon.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
         width="48"
         height="48"
         alt="Next"
-      />
+        />
       <br /><strong>Next.js</strong>
     </td>
-          <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
-        src="https://www.svgrepo.com/show/354478/typescript-icon.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
         width="48"
         height="48"
         alt="TypeScript"
-      />
+        />
       <br /><strong>TypeScript</strong>
     </td>
-        <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
         width="48"
         height="48"
         alt="JavaScript"
-      />
+        />
       <br /><strong>JavaScript</strong>
     </td>
-        <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
-        src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
         width="48"
         height="48"
         alt="Tailwind"
-      />
+        />
       <br /><strong>Tailwind</strong>
     </td>
-        <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
-        src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
         width="48"
         height="48"
         alt="Bootstrap"
-      />
+        />
       <br /><strong>Bootstrap</strong>
     </td>
-        <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
         width="48"
         height="48"
         alt="SASS"
-      />
+        />
       <br /><strong>SASS</strong>
     </td>
-          <td align="center" height="108" width="108">
-          <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
         width="48"
         height="48"
         alt="HTML"
-      />
+        />
       <br /><strong>HTML</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
         width="48"
         height="48"
         alt="CSS"
-      />
+        />
       <br /><strong>CSS</strong>
     </td>
   </tr>
   <tr>
-    <td align="center" height="108" width="108">
+      <td align="center" height="108" width="108">
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-        width="48"
-        height="48"
-        alt="Node.js"
-      />
-      <br /><strong>Node.js</strong>
-    </td>
-        <td align="center" height="108" width="108">
-      <img
-        src="https://www.svgrepo.com/show/376369/dotnet.svg        "
+        src="https://www.svgrepo.com/show/376369/dotnet.svg"
         width="48"
         height="48"
         alt="ASP.NET"
-      />
+        />
       <br /><strong>.NET</strong>
     </td>
-<td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
-        src="https://www.svgrepo.com/show/354200/postgresql.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
         width="48"
         height="48"
-        alt="Postgresql"
-      />
+        alt="Node.js"
+        />
+      <br /><strong>Node.js</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
+        width="48"
+        height="48"
+        alt="Express"
+        />
+      <br /><strong>Express</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+        width="48"
+        height="48"
+        alt="PostgreSQL"
+        />
       <br /><strong>PostgreSQL</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://www.svgrepo.com/show/448271/azure-devops.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"
         width="48"
         height="48"
         alt="Azure"
-      />
+        />
       <br /><strong>Azure</strong>
     </td>
     <td align="center" height="108" width="108">
@@ -154,49 +160,40 @@ Lets get in touch if you're keen, on web development or collaborating together!
         width="48"
         height="48"
         alt="Postman"
-      />
+        />
       <br /><strong>Postman</strong>
     </td>
-            <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
-        src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
         width="48"
         height="48"
         alt="Git"
-      />
+        />
       <br /><strong>Git</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://www.svgrepo.com/show/448221/docker.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
         width="48"
         height="48"
         alt="Docker"
-      />
+        />
       <br /><strong>Docker</strong>
-    </td>
-            <td align="center" height="108" width="108">
-      <img
-        src="https://www.svgrepo.com/show/452202/figma.svg"
-        width="48"
-        height="48"
-        alt="Figma"
-      />
-      <br /><strong>Figma</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
         width="48"
         height="48"
-        alt="Linux"
-      />
-      <br /><strong>Linux</strong>
+        alt="Figma"
+        />
+      <br /><strong>Figma</strong>
     </td>
   </tr>
 </table>
 
-# Statistics
+# 📈 Statistics
 
 <img src="https://github-readme-stats.vercel.app/api?username=markodavkovski&show_icons=true&locale=en&theme=react&hide_border=true" alt="markodavkovski" />
 
